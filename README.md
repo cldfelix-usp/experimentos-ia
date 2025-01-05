@@ -1,0 +1,1 @@
+conda activate rapids-24.12
